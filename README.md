@@ -1,4 +1,3 @@
-Overview
 This Stock Analysis Dashboard provides real-time market insights by fetching stock data using Python and yfinance. Built with Power BI, it enables users to track stock performance, market indices, and key financial metrics over different time frames.
 
 🔥 Features
